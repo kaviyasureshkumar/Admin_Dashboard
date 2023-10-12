@@ -1,6 +1,6 @@
 # Admin_Dashboard
 
-Its a Admin Dashboard , Its is created by using HTML , CSS and some basic Java Script language.
+Its a Admin Dashboard , It's created by using HTML , CSS and some basic Java Script language.
 
 It contains
 1.Menu Bar
